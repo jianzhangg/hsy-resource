@@ -1,0 +1,9 @@
+com\hsy\resource\constant\SystemConstant.class
+com\hsy\resource\constant\JwtConstant.class
+com\hsy\resource\enums\OrderState.class
+com\hsy\resource\enums\IDelivery$DeliveryState.class
+com\hsy\resource\enums\IDelivery.class
+com\hsy\resource\enums\DataState.class
+com\hsy\resource\enums\AccountState.class
+com\hsy\resource\enums\ResultCode.class
+com\hsy\resource\enums\IDelivery$DeliveryType.class
